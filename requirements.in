@@ -1,0 +1,4 @@
+matplotlib==3.10.9
+notebook==7.5.6
+numpy==2.4.6
+tqdm==4.67.3
